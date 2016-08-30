@@ -1,0 +1,6 @@
+Concept: Is | Are | Exist
+Note: Similar to the Japanese "desu", but used to refer others.
+Examples:
+  - apatani/hari: Tara apiñ dw[do] = Tara is eating food
+  - apatani/hari: Mólù yasañ ta'[do] = They are chopping firewood (with an axe)
+  - apatani/hari: Mwdó hu[do] = Rain is falling (It's raining)

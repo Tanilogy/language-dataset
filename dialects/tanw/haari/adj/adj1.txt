@@ -1,5 +1,0 @@
-# Big
-# Eg: Kaaye in tanw/haari
-
-Root: kaaye
-Example: 

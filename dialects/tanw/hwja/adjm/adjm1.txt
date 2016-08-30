@@ -1,5 +1,0 @@
-# Descriptive of a quality
-# Eg: Kaapyo[nw] = the ones that are good-looking; in tanw/haari
-
-Root: nw
-Example: 

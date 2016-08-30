@@ -1,5 +1,0 @@
-# Expected description of a quality
-# Eg: Aya[pa] = properly; in tanw/haari
-
-Root: pa
-Example: 
