@@ -1,0 +1,6 @@
+Concept: Expected description of a quality
+Note:
+Examples:
+  - apatani/hari: Aya[pa] = Properly
+  - galo/darka: Alv[bv] = Properly
+  - adi/general: Ayi[pv] = Properly
