@@ -1,0 +1,6 @@
+Concept: Towards | That side
+Note:
+Examples:
+  - apatani/hari: Hw [dalzi] = That side
+  - apatani/hari: Si [dalzi] = This side
+  - apatani/hari: La'ci [dalzi] ho Nobin ka ude do = Nobin's house is towards the left
