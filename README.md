@@ -1,8 +1,8 @@
 # language-dataset
 Tani language dataset
 
-verbs should be prefixed by their modifiers - "Lukato", not "Luka to"
-nouns should not be prefixed by their modifiers - "Apple mi", not "Applemi"
+verbs should be suffixed by their modifiers - "Lukato", not "Luka to"
+nouns should not be suffixed by their modifiers - "Apple mi", not "Applemi"
 adjectives may or may not be prefixed by modifiers (verb modifiers or noun modifiers)
 v+vm = abstract noun / emotion - http://examples.yourdictionary.com/examples-of-abstract-nouns.html
 the term "noun" is used in the sense of non-abstract noun

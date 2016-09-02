@@ -1,0 +1,4 @@
+Concept: Who
+Note:
+Examples:
+  - apatani/hari: Hu?

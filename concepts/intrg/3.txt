@@ -1,0 +1,4 @@
+Concept: Where
+Note:
+Examples:
+  - apatani/hari: Nó ho? = Where location-specifier (Where?)

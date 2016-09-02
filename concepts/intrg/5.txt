@@ -1,0 +1,4 @@
+Concept: When
+Note:
+Examples:
+  - apatani/hari: Nw wda? = What moment-specifier? (When?)
