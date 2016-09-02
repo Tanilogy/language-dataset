@@ -1,5 +1,6 @@
-Concept: Grow
-Note:
+Concept: Do
+Note: There is a verb for almost all actions in Tani. This one is a general purpose verb.
 Examples:
-  - apatani/hari: Hime ayaa [sañ]do = Child is growing well
-  - apatani/hari: Alí [sañ]do = Sapling is growing
+  - apatani/hari: Nw mw[du]? = What do is? (What are you doing?)
+  - apatani/hari: [Mw]saman [mw]yo = What's not to be done, don't do that (Don't do the forbidden)
+  - apatani/hari: Nw [mw]du? = What doing? (What are you doing?)

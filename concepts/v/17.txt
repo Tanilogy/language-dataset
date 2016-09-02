@@ -1,5 +1,5 @@
-Concept: Ask to be give | Demand
+Concept: Come
 Note:
 Examples:
-  - apatani/hari: Posa [ku]yo ah! = Money ask-not ok! (Don't ask for money, ok!)
-
+  - apatani/hari: Kampu ude [aa]doku = Kampu home come-is-supposed-to-be (Kampu has come home)
+  - apatani/hari: Jayom [aa]kiñdo ha? = Jayom come-will? (Will Jayom come?)

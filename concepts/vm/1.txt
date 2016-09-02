@@ -1,0 +1,5 @@
+Concept: Imperative action
+Note:
+Examples:
+  - apatani/hari: Mw[to] = Do
+  - galo/darka: I[to] = Do

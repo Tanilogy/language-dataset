@@ -1,4 +1,5 @@
-Concept: Live
+Concept: Grow
 Note:
 Examples:
-  - apatani/hari: Qwi atañ [tur]do = Fish all alive (The fish are alive)
+  - apatani/hari: Hime ayaa [sañ]do = Child is growing well
+  - apatani/hari: Alí [sañ]do = Sapling is growing
