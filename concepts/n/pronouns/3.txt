@@ -1,0 +1,5 @@
+Concept: Third person
+Note:
+Examples:
+  - apatani/hari:[Mo] apiñ dwdo = He is eating food
+  - galo/darka:[Mw] ahin dodu = He is eating food

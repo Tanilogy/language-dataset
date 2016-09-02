@@ -5,8 +5,9 @@ verbs should be prefixed by their modifiers - "Lukato", not "Luka to"
 nouns should not be prefixed by their modifiers - "Apple mi", not "Applemi"
 adjectives may or may not be prefixed by modifiers (verb modifiers or noun modifiers)
 v+vm = abstract noun / emotion - http://examples.yourdictionary.com/examples-of-abstract-nouns.html
+the term "noun" is used in the sense of non-abstract noun
 
-https://en.wikipedia.org/wiki/Etymology 
+https://en.wikipedia.org/wiki/Etymology
 https://en.wikipedia.org/wiki/Conjunction_(grammar)
 https://en.wikipedia.org/wiki/Dialect_continuum
 
@@ -26,4 +27,4 @@ language dataset website
 
  - super admin, admin, collaborators
  - API for downloading concepts, and dialects
- 
+
