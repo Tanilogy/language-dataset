@@ -1,4 +1,6 @@
 Concept: Dove
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

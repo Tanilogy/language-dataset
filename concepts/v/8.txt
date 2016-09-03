@@ -1,4 +1,4 @@
-Concept: Construct | Build | Make
+Concept: Die
 Note:
 Examples:
-  - apatani/hari: Qo nesu pudu = I barn am make (I am making a barn)
+  - apatani/hari: Qwi atañ [sw]neku = Fish all have died (The fish have died)

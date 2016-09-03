@@ -1,4 +1,4 @@
-Concept: Lick
+Concept: Touch
 Note:
 Examples:
-  - apatani/hari: Aki yo-alaa [fa]dodo = Dog meat-juice lick do (Dog is licking the meat soup)
+  - apatani/hari: Swmi [teñ]ko, light ondu = This press-when, light on is (The light turns on, when this is pressed)

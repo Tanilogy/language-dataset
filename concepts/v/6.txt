@@ -1,4 +1,4 @@
-Concept: Live
+Concept: Grow in a creeper-like manner
 Note:
 Examples:
-  - apatani/hari: Qwi atañ [tur]do = Fish all alive (The fish are alive)
+  - apatani/hari: Taku [mañ]do = The cucumber plant is growing

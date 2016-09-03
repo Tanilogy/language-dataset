@@ -1,4 +1,5 @@
-Concept: Talk | Speak
+Concept: Smell
 Note:
 Examples:
-  - apatani/hari: Qo Galo iche [lu]chiñ du = I Galo little speak know am (I can speak Galo a little bit)
+  - apatani/hari: Swka perfume si ano [neñ]pyo do = This perfume very good to smell is (This perfume smells very good)
+  - apatani/hari: Swmi [neñ]kato = This smell see (Try smelling this)

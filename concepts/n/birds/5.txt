@@ -1,4 +1,6 @@
 Concept: Eagle
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

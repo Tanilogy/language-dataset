@@ -1,4 +1,6 @@
 Concept: Duck
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

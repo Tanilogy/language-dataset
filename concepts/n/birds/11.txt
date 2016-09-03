@@ -1,4 +1,6 @@
 Concept: Bulbul
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

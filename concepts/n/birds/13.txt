@@ -1,4 +1,6 @@
 Concept: Peacock
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

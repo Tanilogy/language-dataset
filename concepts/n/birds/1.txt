@@ -1,4 +1,6 @@
 Concept: Hornbill
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

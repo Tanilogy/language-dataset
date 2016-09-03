@@ -1,5 +1,5 @@
-Concept: Smell
+Concept: See | Look
 Note:
 Examples:
-  - apatani/hari: Swka perfume si ano [neñ]pyo do = This perfume very good to smell is (This perfume smells very good)
-  - apatani/hari: Swmi [neñ]kato = This smell see (Try smelling this)
+  - apatani/hari: Kakato = See-see-do (Take a look)
+  - apatani/hari: Film [kaa]sa = Film watch-together (Let's watch a film)

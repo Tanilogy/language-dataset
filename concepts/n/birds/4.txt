@@ -1,4 +1,6 @@
 Concept: Owl
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

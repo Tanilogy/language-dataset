@@ -1,4 +1,6 @@
 Concept: Chicken
-Note: 
+Note:
+Image:
+Link:
 Examples:
-  
+

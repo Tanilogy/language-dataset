@@ -1,5 +1,5 @@
-Concept: Come
+Concept: Go
 Note:
 Examples:
-  - apatani/hari: Kampu ude [aa]doku = Kampu home come-is-supposed-to-be (Kampu has come home)
-  - apatani/hari: Jayom [aa]kiñdo ha? = Jayom come-will? (Will Jayom come?)
+  - apatani/hari: Qo more [iñ]ci = I jungle go-will (I will go to the jungle)
+  - apatani/hari: Hime mi [iñ]goyo = Don't go-over children (Don't overtake the children)

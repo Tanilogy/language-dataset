@@ -1,4 +1,3 @@
 Concept: Sun
-Note: 
+Note:
 Examples:
-  
