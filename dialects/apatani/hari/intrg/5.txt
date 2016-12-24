@@ -1,0 +1,9 @@
+Concept: When
+Examples:
+  - apatani/hari: "Nw wda? = What moment-specifier? (When?)"
+------------
+Translink: nww da
+Intonation:
+Etymology:
+Note:
+Example:

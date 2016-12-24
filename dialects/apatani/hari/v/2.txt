@@ -1,0 +1,12 @@
+Concept: Is | Are | Exist
+Note: Used to refer others' status of action.
+Examples:
+  - apatani/hari: "Tara apiñ dw[do] = Tara is eating food"
+  - apatani/hari: "Mólù yasañ ta'[do] = They are chopping firewood (with an axe)"
+  - apatani/hari: "Mwdó hu[do] = Rain is falling (It's raining)"
+------------
+Translink: do
+Intonation:
+Etymology:
+Note:
+Example:

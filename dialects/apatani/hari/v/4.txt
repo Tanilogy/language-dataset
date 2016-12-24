@@ -1,0 +1,12 @@
+Concept: Do
+Note: There is a verb for almost all actions in Tani. This one is a general purpose verb.
+Examples:
+  - apatani/hari: "Nw mw[du]? = What do is? (What are you doing?)"
+  - 0: "a"
+  - apatani/hari: "Nw [mw]du? = What doing? (What are you doing?)"
+------------
+Translink: 
+Intonation: 
+Etymology: 
+Note: 
+Example: 

@@ -1,0 +1,10 @@
+Concept: Negative action
+Examples:
+  - apatani/hari: "Mw[yo] = Don't do"
+  - galo/darka: "I[yok] = Don't do"
+------------
+Translink: Yo
+Intonation:
+Etymology:
+Note:
+Example:

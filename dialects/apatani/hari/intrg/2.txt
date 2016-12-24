@@ -1,0 +1,9 @@
+Concept: What
+Examples:
+  - apatani/hari: "Nw?"
+------------
+Translink: nw
+Intonation:
+Etymology:
+Note:
+Example:

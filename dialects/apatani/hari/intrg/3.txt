@@ -1,0 +1,10 @@
+Concept: Where
+Examples:
+  - apatani/hari: "Nó ho? = Where location-specifier (Where?)"
+------------
+Translink: no ho
+Contraction: no
+Intonation:
+Etymology:
+Note:
+Example:

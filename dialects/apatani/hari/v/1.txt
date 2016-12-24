@@ -1,0 +1,13 @@
+Concept: Am | Exist
+Note: Used to refer the status of action of oneself or, a set where one is included.
+Examples:
+  - apatani/hari: "Qo apiñ dw[du] = I food eat am (I am eating food)"
+  - apatani/hari: "No nw mw[du]? = You what do are? (What are you doing?)"
+  - apatani/hari: "Tara qwzi film kaa[du] = Tara self-two film watch-are (Tara and I are watching a film)"
+  - apatani/hari: "Qunu ude mwti[du] = Self-many house make-repeat are (We are repairing a house)"
+------------
+Translink: du
+Intonation:
+Etymology:
+Note:
+Example:

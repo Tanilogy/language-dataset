@@ -1,0 +1,10 @@
+Concept: Imperative action
+Examples:
+  - apatani/hari: "Mw[to] = Do"
+  - galo/darka: "I[to] = Do"
+------------
+Translink: to
+Intonation:
+Etymology:
+Note:
+Example:

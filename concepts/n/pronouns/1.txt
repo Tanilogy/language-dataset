@@ -1,5 +1,5 @@
 Concept: I
 Note:
 Examples:
-  - apatani/hari:[Qo] apiñ dwdu = I am eating food
-  - galo/darka:[Qo] ahin dodu = I am eating food
+  - apatani/hari: "[Qo] apiñ dwdu = I am eating food"
+  - galo/darka: "[Qo] ahin dodu = I am eating food"

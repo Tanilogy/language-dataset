@@ -1,0 +1,5 @@
+Concept: Targetter/subjectifier (human)
+Note:
+Examples:
+  - apatani/hari: No Taka [mi] cindu ha? = Do you know Taka?
+  - galo/aalo: Jumken [ne] letter em jito = Give the letter to Jumken

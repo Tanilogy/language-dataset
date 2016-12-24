@@ -1,0 +1,11 @@
+Concept: Feel
+Examples:
+  - 0: "a"
+  - apatani/hari: "Aya [heñ]pyo ja! = Oh good to feel! (I am so happy!)"
+  - apatani/hari: "Mo azze ano [heñ]sudu = They two very love to self (They love each other very much)"
+------------
+Translink: mw
+Intonation:
+Etymology:
+Note:
+Example:

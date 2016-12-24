@@ -1,0 +1,9 @@
+Concept: Who
+Examples:
+  - apatani/hari: "Hu?"
+------------
+Translink: hu
+Intonation:
+Etymology:
+Note:
+Example:

@@ -1,0 +1,11 @@
+Concept: Good to experience
+Examples:
+  - apatani/hari: "kaa[pyo] = Good-looking"
+  - galo/darka: "kaa[ken] = Good-looking"
+  - apatani/hari: "kam[po] = Good-looking"
+------------
+Translink: ken
+Intonation:
+Etymology:
+Note:
+Example:

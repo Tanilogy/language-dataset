@@ -1,0 +1,10 @@
+Concept: You
+Examples:
+  - apatani/hari: "[No] nw mwdu? = What are you doing?"
+  - galo/darka: "[No] yo idu? = What are you doing?"
+------------
+Translink: no
+Intonation:
+Etymology:
+Note:
+Example:

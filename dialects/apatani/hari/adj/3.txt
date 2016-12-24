@@ -1,0 +1,9 @@
+Concept: Separate
+Examples:
+  - apatani/hari: "Qo [poñsa]pa apiñ dwci = I will eat separately"
+------------
+Translink: poñsa
+Intonation:
+Etymology:
+Note:
+Example:

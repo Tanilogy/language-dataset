@@ -1,0 +1,11 @@
+Concept: Targetter/subjectifier (human)
+Examples:
+  - apatani/hari: "No Taka [mi] cindu ha? = Do you know Taka?"
+  - galo/aalo: "Jumken [ne] letter em jito = Give the letter to Jumken"
+------------
+Translink: ne
+Contraction:
+Intonation:
+Etymology:
+Note:
+Example:

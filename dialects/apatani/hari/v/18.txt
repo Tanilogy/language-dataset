@@ -1,0 +1,10 @@
+Concept: Come
+Examples:
+  - apatani/hari: "Kampu ude [aa]doku = Kampu home come-is-supposed-to-be (Kampu has come home)"
+  - apatani/hari: "Jayom [aa]kiñdo ha? = Jayom come-will? (Will Jayom come?)"
+------------
+Translink: 
+Intonation: 
+Etymology: 
+Note: 
+Example: 
