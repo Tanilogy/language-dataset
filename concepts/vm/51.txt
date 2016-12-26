@@ -1,0 +1,7 @@
+Concept: To give a try
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Gaan ako lu[ka]to = Try singing a song (sing a song)
+  - apatani/hari: Si mi kaa[ka]to = Take a look at this
+  - apatani/hari: Mo mi ta[ka]to = Ask him
