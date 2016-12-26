@@ -1,0 +1,10 @@
+Concept: Bad to experience
+Examples:
+  - apatani/hari: "kaa[ru] = Bad-loooking"
+  - apatani/hari: "kaa[xir] = Bad-loooking"
+------------
+Translink: ru
+Intonation:
+Etymology:
+Note:
+Example:

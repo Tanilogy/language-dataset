@@ -1,0 +1,5 @@
+Concept: Present negative
+Note: Applies to second and third person too
+Examples:
+  - apatani/hari: Tara apiñ dw[ma] = Tara is not having food
+  - galo/darka: Tara ahin do[ma] = Tara is not having food

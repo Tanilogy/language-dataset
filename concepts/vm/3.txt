@@ -1,6 +1,5 @@
-Concept: Good to experience
+Concept: Imperative negative
 Note:
 Examples:
-  - apatani/hari: kaa[pyo] = Good-looking
-  - galo/darka: kaa[ken] = Good-looking
-  - apatani/hari: kam[po] = Good-looking
+  - apatani/hari: Mw[yo] = Don't do
+  - galo/darka: I[yok] = Don't do

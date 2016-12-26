@@ -1,0 +1,5 @@
+Concept: Second/third-person past tense
+Note:
+Initiator: apatani/hari
+Examples:
+  - apatani/hari: Mo apiñ dw[ne] = He had food

@@ -1,4 +1,4 @@
-Concept: Imperative action
+Concept: Imperative positive
 Note:
 Examples:
   - apatani/hari: Mw[to] = Do

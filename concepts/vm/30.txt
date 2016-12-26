@@ -1,0 +1,6 @@
+Concept: Posses the ability
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Assamese lu[la]du ha? - Do you know how to speak Assamese?
+  - apatani/hari: Qo Tabom mi kaa[la]du - I know Tabom

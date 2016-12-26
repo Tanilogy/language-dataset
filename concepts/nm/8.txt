@@ -1,0 +1,6 @@
+Concept: For
+Note:
+Examples:
+  - adi/generic: "Tabom [lwgapv] mobile phone = A mobile phone for Tabom"
+  - galo/aalo: "Tabom [lvgabv] mobile phone = A mobile phone for Tabom"
+  - apatani/hari: "Tabom [pa] mobile phone = A mobile phone for Tabom"

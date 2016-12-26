@@ -1,0 +1,5 @@
+Concept: Destroy/break/damage a spherical entity with hollow/light inside
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Papu mi mw[pi]dwke ah - Take care not to break the egg

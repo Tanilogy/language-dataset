@@ -1,5 +1,6 @@
-Concept: Targetter/subjectifier (human)
+Concept: From
 Note:
+Initiator:
 Examples:
-  - apatani/hari: No Taka [mi] cindu ha? = Do you know Taka?
-  - galo/aalo: Jumken [ne] letter em jito = Give the letter to Jumken
+  - apatani/hari: Qo Jiro ho[kkw] aadu = I come from Ziro
+  - galo/darka: Qo Aaalo lo[kkv] aadu = I come from Aalo

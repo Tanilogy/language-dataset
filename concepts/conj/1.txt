@@ -1,4 +1,4 @@
 Concept: And
-Note: 
+Note:
 Examples:
-  
+  - apatani/hari: Tapa la Tari ano paledo = Tapa and Tari are too much

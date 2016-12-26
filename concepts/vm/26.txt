@@ -1,0 +1,5 @@
+Concept: Have to
+Note:
+Initiator: apatani/hari
+Examples:
+  - apatani/hari: Ayapa puri[ken]do - Have to study well

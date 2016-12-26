@@ -1,0 +1,5 @@
+Concept: Fall
+Note:
+Initiator:
+Examples:
+  - adi/generic: Mwdo [hu]do = Rain is falling (it's raining)

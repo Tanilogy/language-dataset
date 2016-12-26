@@ -1,0 +1,6 @@
+Concept: Sensitive
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Kaa[zañ] = Very sensitive to look due to bright light
+  - apatani/hari: Hw[zañ] = Very sensitive to feel due to emotion (shy)

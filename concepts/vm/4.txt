@@ -1,5 +1,6 @@
-Concept: Bad to experience
+Concept: Together | In unison
 Note:
+Initiator:
 Examples:
-  - apatani/hari: kaa[ru] = Bad-loooking
-  - apatani/hari: kaa[xir] = Bad-loooking
+  - apatani/hari: Apiñ dw[sa] = Let's have food
+  - galo/darka: Ahin do[laju] = Let's have food

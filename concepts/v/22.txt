@@ -1,0 +1,5 @@
+Concept: Go down/south
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Hapolyang [to]sa = Let's go to Hapoli (which is located in the southern direction / lower elevation)

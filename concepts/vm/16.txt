@@ -1,0 +1,5 @@
+Concept: Participanting action
+Note:
+Initiator: apatani/hari
+Examples:
+  - apatani/hari: Kaam mw[bo]to - Work with others (as a participant)

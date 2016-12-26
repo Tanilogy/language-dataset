@@ -1,0 +1,5 @@
+Concept: Destroy/break/damage a spherical entity with solid inside
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Qo marbol mi e'[pur]to = I broke the glass marble in a shot

@@ -1,0 +1,5 @@
+Concept: First-person past tense non-spatial
+Note:
+Examples:
+  - apatani/hari: Qo apiñ dw[to] = I had food
+  - galo/darka: Qo ahin do[tba] = I had food

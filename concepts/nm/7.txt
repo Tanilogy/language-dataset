@@ -1,0 +1,5 @@
+Concept: Targetter/subjectifier (non-human)
+Note:
+Examples:
+  - adi/generic: Dvm book [em] purito = Read that book
+  - galo/aalo: Jumken ne letter [em] jito = Give the letter to Jumken

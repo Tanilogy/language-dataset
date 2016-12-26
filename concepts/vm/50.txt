@@ -1,0 +1,6 @@
+Concept: Obstruct
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Da'[tiñ]yo = Don't block by standing
+  - apatani/hari: Du[tiñ]yo = Don't block by sitting

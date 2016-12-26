@@ -1,10 +1,9 @@
-Concept: Good to experience
+Concept: Negative action
 Examples:
-  - apatani/hari: "kaa[pyo] = Good-looking"
-  - galo/darka: "kaa[ken] = Good-looking"
-  - apatani/hari: "kam[po] = Good-looking"
+  - apatani/hari: "Mw[yo] = Don't do"
+  - galo/darka: "I[yok] = Don't do"
 ------------
-Translink: pyo
+Translink: Yo
 Intonation:
 Etymology:
 Note:

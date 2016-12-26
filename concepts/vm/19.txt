@@ -1,0 +1,6 @@
+Concept: Destroy/break/divide a solid entity
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Sañpo mi ta'[ce]to = Splinter the lod (with an axe)
+  - apatani/hari: Bicut mi ta[ce]swto = Share the biscuit by breaking it apart

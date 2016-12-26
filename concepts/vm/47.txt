@@ -1,0 +1,5 @@
+Concept: Be incorrect | Miss the target
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Mo ka answer lu[xa] = His answer by speech is incorrect (He gave the wrong answer)

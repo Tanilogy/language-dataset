@@ -1,0 +1,6 @@
+Concept: Due
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Imi[ku]sa = Let's sleep (now that it is time to sleep)
+  - apatani/hari: Imito[ku] = Sleep (now that it is time sleep)

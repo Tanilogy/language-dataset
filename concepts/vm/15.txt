@@ -1,0 +1,5 @@
+Concept: Accomodating action
+Note:
+Initiator: apatani/hari
+Examples:
+  - apatani/hari: Apiñ dw[gw]to - Share one's food with someone, as one is eating

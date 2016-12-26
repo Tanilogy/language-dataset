@@ -1,0 +1,6 @@
+Concept: Kill
+Note:
+Initiator:
+Examples:
+  - apatani/hari: Pa[xw]to = Kill with dao
+  - apatani/hari: Ji[xw]to = Kill by rolling over
